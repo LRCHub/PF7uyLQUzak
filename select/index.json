@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "LAST DAY",
+  "base_artist": "JAKEN",
+  "createdAt": "2025-12-01T14:24:03.101386Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Very Last Day",
+      "artist": "Long Distance Calling",
+      "has_synced": false,
+      "path": "select/01_The_Very_Last_Day_Long_Distance_Calling.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Last Day",
+      "artist": "Moby feat. Skylar Grey",
+      "has_synced": false,
+      "path": "select/02_The_Last_Day_Moby_feat._Skylar_Grey.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Last Day (feat. Skylar Grey)",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/03_The_Last_Day_(feat._Skylar_Grey)_Moby.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Last Day (feat. The Lox)",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/04_Last_Day_(feat._The_Lox)_The_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Last Day of Our Acquaintance (Live)",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/05_The_Last_Day_of_Our_Acquaintance_(Live)_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Last Day Of Our Aquaintance (Live)",
+      "artist": "Sinead O'Connor",
+      "has_synced": false,
+      "path": "select/06_Last_Day_Of_Our_Aquaintance_(Live)_Sinead_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Last Day of Our Acquaintance",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/07_The_Last_Day_of_Our_Acquaintance_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Last Day of Our Acquaintance",
+      "artist": "Sinéad O’Connor",
+      "has_synced": true,
+      "path": "select/08_The_Last_Day_of_Our_Acquaintance_Sinéad_O’Connor.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Very Last Day",
+      "artist": "The Hollies",
+      "has_synced": false,
+      "path": "select/09_The_Very_Last_Day_The_Hollies.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Very Last Day",
+      "artist": "The Hollies",
+      "has_synced": false,
+      "path": "select/10_Very_Last_Day_The_Hollies.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Day of Our Acquaintance",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/11_Last_Day_of_Our_Acquaintance_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last Day Of School",
+      "artist": "The Sugarhill Gang",
+      "has_synced": false,
+      "path": "select/12_Last_Day_Of_School_The_Sugarhill_Gang.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Last Day Alive",
+      "artist": "The Chainsmokers feat. Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/13_Last_Day_Alive_The_Chainsmokers_feat._Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Last Day Alive",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/14_Last_Day_Alive_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Last Day of Summer",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/15_The_Last_Day_of_Summer_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Last Day of Summer (31st August Mix 2018)",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/16_The_Last_Day_of_Summer_(31st_August_Mix_2018)_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Last Day of Summer (31st August Mix)",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/17_The_Last_Day_of_Summer_(31st_August_Mix)_The_Cure.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "the last day of my adolescence",
+      "artist": "神原駿河 cv.沢城みゆき",
+      "has_synced": false,
+      "path": "select/pl_01_the_last_day_of_my_adolescence_神原駿河_cv.沢城みゆき.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "last day",
+      "artist": "神原駿河 cv.沢城みゆき",
+      "has_synced": false,
+      "path": "select/pl_02_last_day_神原駿河_cv.沢城みゆき.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "LAST DAY'S",
+      "artist": "神原駿河 cv.沢城みゆき",
+      "has_synced": false,
+      "path": "select/pl_03_LAST_DAY'S_神原駿河_cv.沢城みゆき.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "the last day of my adolescence",
+      "artist": "神原駿河 cv.沢城みゆき",
+      "has_synced": false,
+      "path": "select/pl_04_the_last_day_of_my_adolescence_神原駿河_cv.沢城みゆき.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "the last day of my adolescence",
+      "artist": "神原駿河 cv.沢城みゆき",
+      "has_synced": false,
+      "path": "select/pl_05_the_last_day_of_my_adolescence_神原駿河_cv.沢城みゆき.txt"
+    }
+  ]
+}
